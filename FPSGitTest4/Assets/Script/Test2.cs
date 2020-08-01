@@ -9,6 +9,7 @@ public class Test2 : MonoBehaviour
     {
         Debug.LogError("Hi test2 Update");
         Debug.LogError("User2 Add Hi test2 Update");
+        Debug.LogError("User1 Add Hi test2 Update2");
     }
 
     // Update is called once per frame
